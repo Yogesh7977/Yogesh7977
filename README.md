@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Yogesh Anabhavne  
+🚀 Frontend Developer | React.js | JavaScript  
 
-<!--
-**Yogesh7977/Yogesh7977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 About Me:  
+- **BSc IT Graduate & Fresher Frontend Developer** 🎓  
+- Passionate about building dynamic web applications  
 
-Here are some ideas to get you started:
+### 🔹 Skills:  
+- **Frontend** – React.js, JavaScript, Redux, Firebase  
+- **Styling** – CSS, Bootstrap, `.module.css`  
+- **Projects** – E-commerce, Kanban board, movie app  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals:  
+- Secure a frontend job 💼  
+- Freelance & build real-world projects 🚀  
+
+📫 **Connect:** [www.linkedin.com/in/yogesh-anbhavane](#) | [https://yogesh-portfolio-nine.vercel.app/](#)  
